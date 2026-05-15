@@ -11,6 +11,7 @@
  aplicação simula um sistema acadêmico simples: gerenciamento de usuários,
  visualização de vídeos/filmes e playlists.
 
+LINK DO PROJETO --> github.com/MrEduardo15/Projeto-JAVA
  Índice
  -----
 
