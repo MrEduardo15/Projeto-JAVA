@@ -10,9 +10,11 @@
  conceitos de Arquitetura de Software e Programação Orientada a Objetos. A
  aplicação simula um sistema acadêmico simples: gerenciamento de usuários,
  visualização de vídeos/filmes e playlists.
+ LINK DO PROJETO --> github.com/MrEduardo15/Projeto-JAVA
 
-LINK DO PROJETO --> github.com/MrEduardo15/Projeto-JAVA
- Índice
+
+
+Índice
  -----
 
  - [🎬 Demonstração](#demonstração)
