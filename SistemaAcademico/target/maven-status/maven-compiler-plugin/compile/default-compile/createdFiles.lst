@@ -1,0 +1,13 @@
+br\edu\fei\model\dao\Conexao.class
+br\edu\fei\model\dao\UsuarioDAO.class
+br\edu\fei\model\Usuario.class
+br\edu\fei\view\LoginJFrame.class
+br\edu\fei\view\PlaylistFrame.class
+br\edu\fei\view\CadastroJFrame.class
+br\edu\fei\view\Filmes$1.class
+br\edu\fei\view\Filmes.class
+br\edu\fei\controller\Controller.class
+br\edu\fei\view\curtidosView.class
+br\edu\fei\model\Video.class
+br\edu\fei\sistemaacademico\SistemaAcademico.class
+br\edu\fei\view\AlunoView.class
